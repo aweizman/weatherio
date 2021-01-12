@@ -7,8 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          React Weather App
+          Weather.io
         </h1>
+        <h2>
+          Made with React
+        </h2>
       </header>
 
       <main>
